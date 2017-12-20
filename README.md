@@ -15,6 +15,17 @@ The tool is maintainable and can be altered according to specific experiment req
 * HTML
 * [interact.js](http://interactjs.io)
 
+## Progress
+In the current stage, it can simulate the following labs:
+* [Molecular Absorption Spectroscopy](http://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CCNSB03+Anytime/about)
+* [Colloid and Surface Chemistry Lab](http://csc-iiith.vlabs.ac.in/#)
+* Parts of [Physical Chemistry Lab](http://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CCNSB06+Anytime/about)
+* [Molecular Fluoroscence Spectroscopy](http://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CCNSB01+Anytime/about)
+ 
+ *But don't worry!*
+ With some basic knowledge of JavaScript programming, you can create your own labs and your own experiments.
+ With the [Lab Automation Tool](https://github.com/Virtual-Labs/lab-authoring-tool-iiith/tree/master/src), you can easily add new objects and their actions without having to go through the whole code.
+
 ## Code Structure
 This explains where what file is and what each file does.
 ### Working Directory
